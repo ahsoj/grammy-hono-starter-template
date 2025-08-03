@@ -1,6 +1,8 @@
 # Grammy Hono Starter Template
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ahsoj/grammy-hono-starter-template)
 
+![](./cli-preview.png)
+
 A modern, feature-rich Telegram bot starter template using [grammY](https://grammy.dev/) with [Hono](https://hono.dev/) as a lightning-fast server framework. Built with TypeScript and a structured project layout to get you building amazing bots quickly.
 
 ## ✨ Features
